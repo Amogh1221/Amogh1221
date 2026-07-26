@@ -16,7 +16,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Amogh1221&label=Profile+Views&style=for-the-badge&color=00D9FF)
 
 </div>
 
