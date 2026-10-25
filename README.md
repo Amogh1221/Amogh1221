@@ -78,19 +78,6 @@ Highlights
 
 ---
 
-# Experience
-
-### AI & Machine Learning Training Intern
-
-**TRL FutureX**
-
-- Built NLP pipelines on 50K+ samples
-- Trained and evaluated 10+ ML models
-- Hyperparameter optimization using Optuna
-- Dockerized FastAPI inference API
-- Achieved **91.9% accuracy**
-
----
 
 # Tech Stack
 
